@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\src\modules\Elsa.Workflows.Core\Elsa.Workflows.Core.csproj" />
+    </ItemGroup>
+
+</Project>
